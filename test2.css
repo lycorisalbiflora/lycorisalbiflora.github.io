@@ -15,18 +15,18 @@
 
     /*Background settings*/
 
-    --app-background: url('https://i.imgur.com/WdSrxA0.jpg'); /*App background*/
+    --app-background: url('https://i.imgur.com/NWB1wWi.gif'); /*App background*/
     --app--bg-opacity: 0; /*App background opacity*/
-    --background-image: url('https://i.imgur.com/XEIBjZS.jpg'); /*Main background image*/
+    --background-image: url('https://i.imgur.com/NWB1wWi.gif'); /*Main background image*/
     --bg-blur: 0px; /*Main background blur*/
     --bg-opacity: 0; /*Main background opacity*/
-    --popout-bg: url('https://i.imgur.com/wQLLZBE.png'); /*Background for popouts*/
+    --popout-bg: url('https://i.imgur.com/NWB1wWi.gif'); /*Background for popouts*/
     --popout-blur: 0px; /*Popout background blur*/
     --popout-opacity: 0; /*Popout background opacity*/
 
     /*General Settings*/
 
-    --home-icon-image: url('https://i.imgur.com/eIcueYp.gif'); /*Home icon*/
+    --home-icon-image: url('https://i.imgur.com/AXoRfjz.gif'); /*Home icon*/
     --main-dark-color: 21, 21, 21; /*Main dark color of the theme | WARNING: USE RGB VALUES IF YOU CHANGE THE COLOR | Default 21, 21, 21*/
     --scrollbar-dark-color: 6, 6, 6; /*Main dark color of the theme | WARNING: USE RGB VALUES IF YOU CHANGE THE COLOR | Default 21, 21, 21*/
     --window-padding: 50px; /*Change to modify window size | Default 50px*/
