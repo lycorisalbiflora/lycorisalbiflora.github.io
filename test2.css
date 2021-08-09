@@ -88,7 +88,7 @@
 }
 #app-mount .container-2lgZY8::after { /*Background 2*/
     content: "";
-    position: absolute;
+    position: center;
     top: 0;
     left: 0;
     top: 0;
