@@ -357,7 +357,7 @@
  
  [class*="wordmark-"]::after /* after 'DISCORD' sign on top of the window */
  {
-     font-family: 'Fugaz One';
+     font-family: '';
      font-size: 14.5px;
      content: "Discord" !important;
      color:var(--main);
