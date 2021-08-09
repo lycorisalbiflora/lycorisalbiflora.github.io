@@ -232,7 +232,7 @@ body,
     background: transparent;
     border-radius: var(--window-border-radius);
     pointer-events: all;
-    box-shadow: -3px -6px 10px 10px rgba(0, 0, 0, 0.569), -3px -6px 10px 10px rgba(0, 0, 0, 0.569);
+    box-shadow: -3px -6px 10px 10px rgba(0, 0, 0, 0.0), -3px -6px 10px 10px rgba(0, 0, 0, 0.0);
 }
 .standardSidebarView-3F1I7i::before { /*Settings window background*/
     content: '';
