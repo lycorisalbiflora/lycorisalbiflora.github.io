@@ -15,12 +15,12 @@
 
     /*Background settings*/
 
-    --app-background: url('https://i.imgur.com/WdSrxA0.jpg'); /*App background*/
+    --app-background: url(''); /*App background*/
     --app--bg-opacity: 0.40; /*App background opacity*/
     --background-image: url('https://i.imgur.com/XEIBjZS.jpg'); /*Main background image*/
     --bg-blur: 0px; /*Main background blur*/
     --bg-opacity: 0; /*Main background opacity*/
-    --popout-bg: url('https://i.imgur.com/wQLLZBE.png'); /*Background for popouts*/
+    --popout-bg: url(''); /*Background for popouts*/
     --popout-blur: 0px; /*Popout background blur*/
     --popout-opacity: 0; /*Popout background opacity*/
 
