@@ -70,7 +70,7 @@
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0,0,0,0 var(--app--bg-opacity));
+    background-color: rgba(0,0,0, var(--app--bg-opacity));
     z-index: -1;
 }
 #app-mount .container-2lgZY8::before { /*Background 2*/
@@ -139,11 +139,11 @@ body,
     z-index: 1;
 }
 .layers-3iHuyZ { /*Changes borders*/
-    box-shadow: -3px -6px 10px 10px rgba(0, 0, 0, 0.569);
+    box-shadow: -3px -6px 10px 10px rgba(0, 0, 0, 0.0);
     border-radius: var(--window-border-radius, 12px);
 }
 .backdrop-1wrmKB {
-    background: rgba(0, 0, 0, 0.569)!important;
+    background: rgba(0, 0, 0, 0.0)!important;
     backdrop-filter: blur(3px);
 }
 
